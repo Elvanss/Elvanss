@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Everyone 👋
 
 <!--
 **Elvanss/Elvanss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📫 How to reach me: 
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/duy-le-15390721b/) [![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png) Facebook](https://www.facebook.com/duyminh0309/) 
