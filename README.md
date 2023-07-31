@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ## 📫 How to reach me: 
 
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/duy-le-15390721b/)
-[![Instagram](instagram_icon_link.png) Instagram](https://www.instagram.com/_evarel.5/)
-[![Facebook](facebook_icon_link.png) Facebook](https://www.facebook.com/duyminh0309/)
+[![Github](https://i.stack.imgur.com/tskMh.png) Github](https://www.instagram.com/_evarel.5/)
 
 
