@@ -1,5 +1,5 @@
+Something about myself!
 ### Hello Everyone 👋
-
 <!--
 **Elvanss/Elvanss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/duy-le-15390721b/)
 
-Something about myself!
+
