@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Github](https://i.stack.imgur.com/tskMh.png) Github](https://github.com/Elvanss)
 
-[![Instagram](https://i.imgur.com/xxxxxxxx.png) Instagram](https://www.instagram.com/your_username/)
+[![Instagram](https://i.imgur.com/xxxxxxxx.png) Instagram](https://www.instagram.com/_evarel.5/)
 
 
 
